@@ -1,0 +1,27 @@
+@font-face {
+    font-family:"bebas";
+    src: url(../font/BebasNeue-Regular.ttf);
+}
+
+.separador{
+    width:auto;
+    height: 50px;
+    margin: 100px;
+    padding-bottom: 55px;
+}
+
+.separador h1{
+    text-align: center;
+    font-family: "bebas";
+    color: black;
+    font-size: 50px;
+}
+
+.texto-img{
+    margin-top: 18px;
+    font-family: "bebas";
+    font-size: 30px;
+    text-shadow: 0 0 20px #fefcc9, 2px -2px 3px #feec85, -4px -4px 5px #ffae34, 5px -10px 6px #ec760c, -5px -12px 8px #cd4606, 0 -15px 20px #973716, 2px -15px 20px #451b0e;
+    color: #666; 
+    
+}

@@ -3,6 +3,11 @@
     src: url(../font/BebasNeue-Regular.ttf);
 }
 
+.bebas{
+    font-family:"bebas";
+    font-size: 25px;
+}
+
 .separador{
     width:auto;
     height: 50px;

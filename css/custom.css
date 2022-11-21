@@ -40,3 +40,42 @@
 .ajustar_footer{
     min-height: 100vh !important;
 }
+
+.ets_av_table {
+    width: 100%;
+    display: table;
+    height: 100%;
+    max-width: 700px;
+}
+
+.ets_av_table_cell {
+    display: table-cell;
+    align-items: center;
+    vertical-align: middle;
+    padding: 30px 0;
+}
+
+.ets_av_content_popup {
+    box-shadow: 0 5px 15px rgb(0 0 0 / 50%);
+    background: #fff;
+    border-radius: 3px;
+    padding: 30px;
+    text-align: center;
+}
+
+.ets_av_overload.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+.quitarmensaje{
+    display: none;
+}
+
+.fondoMsg{
+    background-color: black;
+    height: 100vh;
+    width: auto;
+    opacity: 50%;
+    z-index: 0;
+}
